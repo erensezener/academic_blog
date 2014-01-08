@@ -1,4 +1,4 @@
 name: Eren Sezener's Academic Blog
 markdown: redcarpet
 pygments: true
-baseurl: /academic_website
+baseurl: /academic_blog
