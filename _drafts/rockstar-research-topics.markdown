@@ -1,0 +1,3 @@
+In every domain, there seems to be rockstars (organizations/people/ideas) that get disproportionately more attention compared to the other entities (organizations/people/ideas). The attention **rockstars** get does not have to be proportional to the value they do/can create. In the age of social media, ideas can spread very
+
+For example, at a given time, there will be *hot* and *cold* academic research topics. An outsider might have an idea of the hot topics by inspecting the publicity they get in mainstream channels like science & technology magazines, blogs and even newspapers.
