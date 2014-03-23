@@ -8,10 +8,11 @@ categories: books
 I enjoyed reading the book. Altough most concepts were not new to me, Taleb offers some refreshing insights. 
 
 Main argument of the book is that most things in life are random. However, people don't see the randomness and find causal connections.
+Taleb bashes the academics, scientists, and especially traders for being fools of randomess.
 
-Below, I list some of my notes from the book. 
+Below, I list some of my notes from the book:
 
-*Please note that, my notes do not necessarily reflect my beliefs but they likely include my interpretations.*
+*Please note that, my notes do not necessarily reflect my beliefs but they some likely include my interpretations.*
 
 Arguments that cannot be simplified into media-friendly statements are often confused by people and considered to be symptops of a confused mind.
 
@@ -24,3 +25,6 @@ Wild success is attrituable to variance.
 
 Instead of trying to optimize a lot, introducing variance and randomness into life has benefits. Taleb argues that the life is more enjoyable without optimizing.
 
+Taleb made heavy use of Monte Carlo methods in his career. He thinks mathematics is not sufficient for understanding complex events. Mathematics is a tool to "meditate" for him.
+
+Taleb considers himself a stoic, who endures the unpleasent random events of life.
