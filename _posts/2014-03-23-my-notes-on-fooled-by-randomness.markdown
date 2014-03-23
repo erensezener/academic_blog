@@ -1,4 +1,13 @@
+---
+layout: post
+title: "My Notes on Fooled by Randomness"
+date: 2014-03-23 14:50
+categories: books 
+---
+
 I enjoyed reading the book. Altough most concepts were not new to me, Taleb offers some refreshing insights. 
+
+Main argument of the book is that most things in life are random. However, people don't see the randomness and find causal connections.
 
 Below, I list some of my notes from the book. 
 
@@ -12,3 +21,6 @@ It is rational to change what one believes under the light of new information (*
 
 Mild success can be explained by skills and labor.
 Wild success is attrituable to variance.
+
+Instead of trying to optimize a lot, introducing variance and randomness into life has benefits. Taleb argues that the life is more enjoyable without optimizing.
+
