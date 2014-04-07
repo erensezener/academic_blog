@@ -2,10 +2,3 @@ name: Eren Sezener's Log
 markdown: redcarpet
 pygments: true
 baseurl: /academic_blog
-
-analytics :
-  provider : google
-  google : 
-      tracking_id : 'UA-22021551-2'
-  getclicky :
-    site_id :
